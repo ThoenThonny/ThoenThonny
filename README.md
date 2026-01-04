@@ -8,22 +8,22 @@ Here are some ideas to get you started:
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,typescript,react,vue,angular" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,vue" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,postgres" />
 </p>
 
 ### 🧠 Programming & Networking
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,java" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,c" />
   <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
 </p>
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
