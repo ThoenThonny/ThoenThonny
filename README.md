@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=nodejs" width="40"/>
 
   <img src="https://skillicons.dev/icons?i=vue" width="40"/>
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcR5U16C8yXgBpl7-Bc7Itjx3_LRl425zINA&s" width="40"/>
   <!-- Ubuntu -->
   <img src="https://skillicons.dev/icons?i=ubuntu" width="40"/>
 
@@ -34,4 +34,5 @@ Here are some ideas to get you started:
   <!-- MySQL -->
   <img src="https://skillicons.dev/icons?i=mysql" width="40"/>
     <!-- Xammp -->
+    <img src="https://sc.filehippo.net/images/t_app-icon-l/p/11787910-96d2-11e6-ab89-00163ec9f5fa/403594526/xampp-logo" width="40"/>
 </p>
