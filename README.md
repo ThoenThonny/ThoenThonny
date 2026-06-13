@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 🧠 Programming & Networking
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,c" />
+  <img src="https://skillicons.dev/icons?i=cpp,c" />
   <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
 </p>
 
